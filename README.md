@@ -10,7 +10,7 @@ pip install halran
 
 Usage example:  
 ```python
-from HalRan import *
+from halran import *
 print(random.randint(0,10,0.1))
 print(random.randelem(['hi','hello','bye']))
 ```
