@@ -1,2 +1,2 @@
 # HalwarsingRandom
-My own random
+My own random algorithm
